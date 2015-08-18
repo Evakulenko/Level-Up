@@ -1,11 +1,11 @@
 package Lecture13;
 
 /**
- * Created by Åâãåíèé on 18.08.2015.
+ * Created by Ğ•Ğ²Ğ³ĞµĞ½Ğ¸Ğ¹ on 18.08.2015.
  */
 public abstract class CommandResolver{
 
-    public boolean isWork(){
+    public boolean isWork(String a){
         return false;
     }
 

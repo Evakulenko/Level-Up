@@ -5,14 +5,15 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 /**
- * Created by Евгений on 18.08.2015.
+ * Created by Р•РІРіРµРЅРёР№ on 18.08.2015.
  */
 public class Main {
-//    Необходимо расширить функционал классов для обработки команд, и добавить обработку аттрибутов..
+//    РќРµРѕР±С…РѕРґРёРјРѕ СЂР°СЃС€РёСЂРёС‚СЊ С„СѓРЅРєС†РёРѕРЅР°Р» РєР»Р°СЃСЃРѕРІ РґР»СЏ РѕР±СЂР°Р±РѕС‚РєРё РєРѕРјР°РЅРґ, Рё РґРѕР±Р°РІРёС‚СЊ РѕР±СЂР°Р±РѕС‚РєСѓ Р°С‚С‚СЂРёР±СѓС‚РѕРІ..
     public static void main(String[] args) throws IOException{
         System.out.println("Enter the commmand please");
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
         String console = bufferedReader.readLine();
+
 
     }
 }
